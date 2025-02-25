@@ -1,0 +1,125 @@
+﻿.ax_default {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_2 {
+}
+.button {
+  font-size:10px;
+}
+.link_button {
+  color:#1E98D7;
+}
+.shape {
+}
+.heading_1 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:"Arial Обычный", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.table_cell {
+}
+.flow_shape {
+}
+.menu_item {
+}
+.form_hint {
+  color:#999999;
+}
+.flow_shape1 {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_1 {
+}
+.box_3 {
+}
+.image1 {
+}
+.placeholder {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.form_disabled {
+}
+.text_field1 {
+  text-align:left;
+}
+.icon {
+}
+.link_button1 {
+  color:#169BD5;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.checkbox1 {
+  text-align:left;
+}
+textarea, select, input, button, div, svg { outline: none; }
